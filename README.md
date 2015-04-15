@@ -1,4 +1,4 @@
-DaoCloud助力中国开发者提升Docker使用体验
+# DaoCloud助力中国开发者提升Docker使用体验
 
 昨天在DaoCloud主办的Docker两周年庆生会上，我们在Docker的朋友分享了一个惊天消息，今天这个消息已经在云计算的朋友圈里刷屏：《Docker完成9500万美元的融资》。
 
