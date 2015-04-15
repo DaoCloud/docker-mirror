@@ -1,4 +1,4 @@
-# 再不玩Docker，你就Out了！DaoCloud助力中国开发者提升Docker使用体验
+DaoCloud助力中国开发者提升Docker使用体验
 
 昨天在DaoCloud主办的Docker两周年庆生会上，我们在Docker的朋友分享了一个惊天消息，今天这个消息已经在云计算的朋友圈里刷屏：《Docker完成9500万美元的融资》。
 
@@ -33,6 +33,6 @@ DaoCloud的Docker Hub Mirror服务，采用官方Mirror机制，结合国内云�
 https://dashboard.daocloud.io/mirror
 
 ## 服务承诺
-以上服务由DaoCloud专业团队运维，实时更新，并承诺永久免费。如果你喜欢我们的服务，请不吝给我们点个赞。
+以上服务由DaoCloud专业团队运维，实时更新，并承诺永久免费。如果你喜欢我们的服务，请不吝给我们点个赞。https://github.com/DaoCloud/docker-mirror
 
 Calm Down and Docker Run!
