@@ -1,5 +1,7 @@
 # DaoCloud助力中国开发者提升Docker使用体验
 
+[deprecated] 请使用: [加速三剑客](https://github.com/DaoCloud/public-image-mirror)
+
 昨天在DaoCloud主办的Docker两周年庆生会上，我们在Docker的朋友分享了一个惊天消息，今天这个消息已经在云计算的朋友圈里刷屏：《Docker完成9500万美元的融资》。
 
 Docker这个本世纪以来发展最快，最受关注的开源爆款单品，已经在逆天的道路上前无古人，一骑绝尘，迈进独角兽俱乐部。
